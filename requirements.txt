@@ -3,3 +3,4 @@ opencv-python
 fastapi
 python-multipart
 gunicorn
+uvicorn
